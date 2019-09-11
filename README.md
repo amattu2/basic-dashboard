@@ -4,4 +4,4 @@ A simple dashboard design. As internal projects or pages are replaced, I try to 
 Use it as you wish.
 
 # preview
-![preview image]()
+![preview image](https://github.com/amattu2/dashboard/blob/master/demo-1.png?raw=true)
