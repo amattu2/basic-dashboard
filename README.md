@@ -1,7 +1,5 @@
-# dashboard
-A simple dashboard design. As internal projects or pages are replaced, I try to post them to Github for public use. This is a simple dashboard design pulled from an internal project. 
+# Introduction
+This is a simple user dashboard design with a activity feed and a template element to create more functionality. 
 
-Use it as you wish.
-
-# preview
+# Previews
 ![preview image](https://github.com/amattu2/dashboard/blob/master/demo-1.png?raw=true)
